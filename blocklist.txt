@@ -1,0 +1,24 @@
+! Title: Avadiax's personal ABP blocklist
+! Description: All domains that are curated from malware threat intelligence list
+! Source: https://mieland/blocklist/
+! Homepage: https://mieland/blocklist/test.txt
+! License: None
+! Expires: Updated regularly
+! Version: 2023.06.05.1
+! Syntax: AdBlock
+!
+||addatamarket.net^
+||ans7tv.net^
+||anstv.net^
+||backuprabbit.com^
+||businessvideonews.com^
+||cloudsponcer.com^
+||datamarketplace.net^
+||growthtransport.com^
+||mobilegamerstats.com^
+||snoweeanalytics.com^
+||tagclick-cdn.com^
+||topographyupdates.com^
+||unlimitedteacup.com^
+||virtuallaughing.com^
+||web-trackers.com^
